@@ -1,0 +1,4 @@
+/home/rahat/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/rahat/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.AssemblyInfoInputs.cache
+/home/rahat/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.AssemblyInfo.cs
+/home/rahat/HelloWorldApp/obj/Debug/net5.0/HelloWorldApp.csproj.CoreCompileInputs.cache
